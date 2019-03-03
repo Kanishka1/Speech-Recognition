@@ -1,4 +1,4 @@
-A simplest python program to listen to a live speech and convert it to text with the system microphone being the source to record voice.
+A simplest python program (speech.py) to listen to a live speech and convert it to text with the system microphone being the source to record voice.
 
 It uses Google Speech To Text api to recognize sound.
 
